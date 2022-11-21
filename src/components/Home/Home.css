@@ -1,0 +1,29 @@
+.name_feild{
+    width: 220px;
+}
+.calendar{
+    width: 220px;
+    margin-left: 4px;
+}
+.email_feild{
+    margin-left: 4px;
+}
+.submit{
+    /* text-align: center; */
+    margin-top: 20px;
+}
+.Form{
+    align-content: center;
+    margin-top: 16%;
+}
+h4{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 6px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

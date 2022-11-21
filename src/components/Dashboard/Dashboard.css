@@ -1,0 +1,11 @@
+.link{
+    border: 1px solid;
+    width: 60px;
+    background-color: #1976d2;
+    text-align: center;
+    margin-right: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
